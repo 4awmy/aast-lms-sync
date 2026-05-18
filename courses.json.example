@@ -1,0 +1,11 @@
+{
+  "Course Name (CODE)": {
+    "id": "YOUR_COURSE_ID",
+    "extra_sources": {
+      "Sections": "https://drive.google.com/drive/folders/YOUR_DRIVE_FOLDER_ID"
+    }
+  },
+  "Another Course": {
+    "id": "12345"
+  }
+}
